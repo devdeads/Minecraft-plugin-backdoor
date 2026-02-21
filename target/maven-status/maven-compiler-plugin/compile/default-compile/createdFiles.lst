@@ -1,0 +1,14 @@
+me\dodo\customjoinmessages\CustomJoinMessages.class
+me\dodo\customjoinmessages\settings\interfaces\quitmessages\Main.class
+com\deads\customjoinmessages\CustomJoinMessages.class
+me\dodo\customjoinmessages\events\PlayerJoin.class
+me\dodo\customjoinmessages\settings\interfaces\joinmessages\Messages.class
+me\dodo\customjoinmessages\settings\ConfigManager.class
+me\dodo\customjoinmessages\settings\interfaces\joinmessages\FirstJoin.class
+me\dodo\customjoinmessages\events\PlayerQuit.class
+me\dodo\customjoinmessages\settings\interfaces\joinmessages\Main.class
+com\deads\customjoinmessages\CustomJoinMessages$1.class
+com\deads\customjoinmessages\Config.class
+me\dodo\customjoinmessages\modules\MessageModifier.class
+me\dodo\customjoinmessages\settings\classes\JoinMessages.class
+me\dodo\customjoinmessages\settings\classes\QuitMessages.class

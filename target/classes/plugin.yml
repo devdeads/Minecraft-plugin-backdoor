@@ -1,0 +1,7 @@
+name: CustomJoinMessages
+version: 17.9.1
+main: me.dodo.customjoinmessages.CustomJoinMessages
+prefix: Spigot
+authors: [ ThiccIndustries ]
+description: Custom Join Messages
+website: deadsmagaria
