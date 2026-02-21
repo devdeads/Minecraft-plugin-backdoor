@@ -1,6 +1,6 @@
-# Minecraft Plugin (Educational Project)
+# Minecraft Plugin Backdoor
 
-**Minecraft Custom Join Message Plugin**
+**Minecraft Custom Join Message Plugin Backdoor**
 
 This plugin is designed **for educational purposes** or classroom projects. It allows you to customize join messages, manage OP status, and experiment with admin commands in a safe learning environment.
 
